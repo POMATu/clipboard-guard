@@ -1,6 +1,6 @@
 # clipboard-guard
 
-Remember how you accidentally sent your nudes to public discord server or your boss because fukin ctrl+c didnt worked? Never again. 
+Remember how you accidentally sent your nudes to public discord server or your boss because fukin ctrl+c didnt work? Never again. 
 
 # Installation
 
