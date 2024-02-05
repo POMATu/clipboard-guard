@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Exec=/home/user/Projects/clipboard-guard/clipboard-guard.pl
+Hidden=false
+NoDisplay=false
+X-GNOME-Autostart-enabled=true
+Name=clipboard-guard
+Comment=
